@@ -1,16 +1,13 @@
-### Hi there 👋
+# G'day! I'm Ewelina 👋
 
-<!--
-**ewelina291988/ewelina291988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a civil engineer who👷🏻‍♀️, while working with data💻 , discovered his passion for data science! Currently working, learning and growing my skills in competitive coding in **Python** and deeper understanding of data structures and algorithms **Machine learning**.
+
+
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Crush on data science.
+* ✍🏻 The [80/20](https://en.wikipedia.org/wiki/Pareto_principle) rule in life and work.
+* 🌍 Living in [Melbourne] (https://www.visitmelbourne.com) Australia, orgynaly form [Wroclaw](https://www.wroclaw.pl) Poland.
+* 💥 Longboarding for sport.
+* 🎮 Loves playing [Witcher 3](https://store.steampowered.com/app/292030/Wiedmin_3_Dziki_Gon/)
+* 😁 Nice to meet you!
