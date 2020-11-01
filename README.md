@@ -5,7 +5,7 @@ I am a civil engineer who👷🏻‍♀️, while working with data💻 , discov
 
 
 Here are some ideas to get you started:
-* 💻 Crush on data science.
+* 💻 Crush on data science!
 * ✍🏻 The [80/20](https://en.wikipedia.org/wiki/Pareto_principle) rule in life and work.
 * 🌍 Living in [Melbourne](https://www.visitmelbourne.com) Australia, originally from [Wroclaw](https://www.wroclaw.pl) Poland.
 * 💥 Longboarding for sport.
