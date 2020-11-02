@@ -1,6 +1,6 @@
 # G'day! I'm Ewelina 👋
 
-I am a civil engineer who👷🏻‍♀️, while working with data💻 , discovered his passion for data science! Currently working, learning and growing my skills in competitive coding in **Python** and deeper understanding of data structures and algorithms of **Machine learning**.
+I am a civil engineer who👷🏻‍♀️, while working with data💻 , discovered my passion for data science! Currently working, learning and growing my skills in competitive coding in **Python** and deeper understanding of data structures and algorithms of **Machine learning**.
 
 
 
