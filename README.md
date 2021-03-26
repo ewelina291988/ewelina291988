@@ -1,7 +1,7 @@
 # Hello! I'm Ewelina 👋
 
-I am a civil engineer who👷🏻‍♀️, while working with data💻 , discovered my passion for data science! Currently working, learning and growing my skills in competitive coding in **Python** and deeper understanding of data structures and algorithms of **Machine learning**.
-
+Self-motivated civil engineer👷🏻‍♀️ focused on extending analytical capabilities💻.
+Engineering problem solving attitude based on analytical approach and logical way of thinking. Switch contexts easily and learn quickly. Proficient in data analysis and visualization, **Python**, SQL, Git, Apache Spark, Tableau. Experience working with a variety of statistical and machine learning methods. Focused on solve business problems.
 
 
 * 💻 Crush on data science!
