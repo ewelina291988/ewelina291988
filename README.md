@@ -6,7 +6,6 @@ Engineering problem solving attitude based on analytical approach and logical wa
 
 * 💻 Crush on data science!
 * ✍🏻 The [80/20](https://en.wikipedia.org/wiki/Pareto_principle) rule in life and work.
-* 🌍 Living in [Melbourne](https://www.visitmelbourne.com) Australia, originally from [Wroclaw](https://www.wroclaw.pl) Poland.
-* 💥 Longboarding for sport.
-* 🎮 Loves playing [Witcher 3](https://store.steampowered.com/app/292030/Wiedmin_3_Dziki_Gon/)
+* 🌍 Living in [Brisbane]([https://www.visitbrisbane.com.au]) Australia, originally from [Wroclaw](https://www.wroclaw.pl) Poland.
+* 💥 Crypto!
 * 😁 Nice to meet you!
